@@ -24,16 +24,10 @@ A simple weather app that shows current weather for any city using the [OpenWeat
 
 ### Installation
 
-1. Clone the repository:
-```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
-```
-2. Open `script.js` and replace the placeholder with your API key:
-```javascript
-   const apiKey = "YOUR_API_KEY";
-```
-3. Open `index.html` in your browser.
+1. Click the green **Code** button, then **Download ZIP**.
+2. Unzip the folder.
+3. Open `script.js` and replace `YOUR_API_KEY` with your OpenWeatherMap API key.
+4. Open `index.html` in your browser.
 
 ## Usage
 
