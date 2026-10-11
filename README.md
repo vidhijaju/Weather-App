@@ -1,7 +1,7 @@
 # Weather App
 
 A simple weather app that shows current weather for any city using the [OpenWeatherMap API](https://openweathermap.org/api).
-Live Demo: https://vidhijaju.github.io/Weather-App/ 
+Live Demo: https://vidhijaju.github.io/Weather-App/  
 ## Features
 
 - Search weather by city name
